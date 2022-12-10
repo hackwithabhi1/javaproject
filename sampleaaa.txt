@@ -1,0 +1,4 @@
+# javaproject
+create for devops testing purpose
+hi
+hello
